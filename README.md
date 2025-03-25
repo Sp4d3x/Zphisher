@@ -125,16 +125,3 @@ $ zphisher
   docker run --rm -ti htrtech/zphisher
   ```
   - Remember to mount the `auth` directory.
-
-##
-
-<details>
-  <summary><h3>Dependencies</h3></summary>
-
-<b>Zphisher</b> requires following programs to run properly - 
-- `git`
-- `curl`
-- `php`
-
-> All the dependencies will be installed automatically when you run **Zphisher** for the first time.
-</details>
